@@ -8,9 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import java.util.ArrayList;
 import java.util.List;
 
+import nyc.c4q.dereksantos.exampractice_12_21.backend.Flowers;
+import nyc.c4q.dereksantos.exampractice_12_21.backend.FlowersApi;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

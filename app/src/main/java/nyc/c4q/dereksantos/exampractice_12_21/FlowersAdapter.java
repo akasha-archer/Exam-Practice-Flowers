@@ -4,6 +4,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;
 import java.util.List;
 
+import nyc.c4q.dereksantos.exampractice_12_21.backend.Flowers;
+
 public class FlowersAdapter extends RecyclerView.Adapter<FlowerViewHolder> {
     List<Flowers> flowersList;
 

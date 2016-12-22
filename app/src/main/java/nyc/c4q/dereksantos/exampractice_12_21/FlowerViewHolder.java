@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import nyc.c4q.dereksantos.exampractice_12_21.backend.Flowers;
+
 public class FlowerViewHolder extends RecyclerView.ViewHolder {
     private final View mView;
     private final TextView categoryViewHolder;
